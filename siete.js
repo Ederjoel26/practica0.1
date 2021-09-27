@@ -9,4 +9,4 @@ for(var u=0; u<=frase.length; u++){
     }
 }
 
-console.log("Vocales: "+num);
+console.log("Vocales: "+ num);
